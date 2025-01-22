@@ -19,14 +19,16 @@ Run the ProjectFile.ipynb notebook in a Jupyter environment. The notebook is set
 ## Note: The project assumes the following folder structure for data:
 
 (Project Folder)
--test
-    -cat
-        (cat images)
-    -dog
-        (dog images)
--train
-    -cat
-        (cat images)
-    -dog
-        (dog images)
--ProjectFile.ipynb
+
+- **`train`**: Contains the training dataset.
+  - **`cat`**: Subfolder for cat images in the training set.
+  - **`dog`**: Subfolder for dog images in the training set.
+- **`test`**: Contains the testing dataset.
+  - **`cat`**: Subfolder for cat images in the testing set.
+  - **`dog`**: Subfolder for dog images in the testing set.
+- **`ProjectFile.ipynb`**: The Jupyter notebook containing the project code.
+
+---
+
+Ensure your dataset follows this structure to avoid errors when running the notebook. Let me know if additional details are needed!
+
