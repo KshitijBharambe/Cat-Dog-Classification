@@ -18,8 +18,7 @@ Run the ProjectFile.ipynb notebook in a Jupyter environment. The notebook is set
 
 ## Note: The project assumes the following folder structure for data:
 
-(Project Folder)
-
+- **`Project Folder`**
 - **`train`**: Contains the training dataset.
   - **`cat`**: Subfolder for cat images in the training set.
   - **`dog`**: Subfolder for dog images in the training set.
