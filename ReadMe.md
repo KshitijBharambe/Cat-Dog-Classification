@@ -27,7 +27,3 @@ Run the ProjectFile.ipynb notebook in a Jupyter environment. The notebook is set
   - **`dog`**: Subfolder for dog images in the testing set.
 - **`ProjectFile.ipynb`**: The Jupyter notebook containing the project code.
 
----
-
-Ensure your dataset follows this structure to avoid errors when running the notebook. Let me know if additional details are needed!
-
